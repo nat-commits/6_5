@@ -1,3 +1,0 @@
-C:/Users/Acer/Downloads/1_Skillbox дроны/c++/pr_6_5/build/CMakeFiles/matrix_class.dir
-C:/Users/Acer/Downloads/1_Skillbox дроны/c++/pr_6_5/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Acer/Downloads/1_Skillbox дроны/c++/pr_6_5/build/CMakeFiles/ZERO_CHECK.dir
